@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// change to 15 for handin
+// for 15x15 mazes
 #define m 15
 
 char maze[m][m];
